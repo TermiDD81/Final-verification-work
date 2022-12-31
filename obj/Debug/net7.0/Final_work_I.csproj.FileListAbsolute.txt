@@ -1,0 +1,15 @@
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\bin\Debug\net7.0\Final_work_I.exe
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\bin\Debug\net7.0\Final_work_I.deps.json
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\bin\Debug\net7.0\Final_work_I.runtimeconfig.json
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\bin\Debug\net7.0\Final_work_I.dll
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\bin\Debug\net7.0\Final_work_I.pdb
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\obj\Debug\net7.0\Final_work_I.csproj.AssemblyReference.cache
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\obj\Debug\net7.0\Final_work_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\obj\Debug\net7.0\Final_work_I.AssemblyInfoInputs.cache
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\obj\Debug\net7.0\Final_work_I.AssemblyInfo.cs
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\obj\Debug\net7.0\Final_work_I.csproj.CoreCompileInputs.cache
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\obj\Debug\net7.0\Final_work_I.dll
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\obj\Debug\net7.0\refint\Final_work_I.dll
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\obj\Debug\net7.0\Final_work_I.pdb
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\obj\Debug\net7.0\Final_work_I.genruntimeconfig.cache
+C:\Users\Termi\Documents\GeekBrains\Final_work_I\obj\Debug\net7.0\ref\Final_work_I.dll
